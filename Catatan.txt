@@ -1,0 +1,5 @@
+Aplikasi Web Manajemen Data Konsumsi, projek stupend di PLN
+
+tach stack : 
+Backend => NodeJs, Php, Datatables, Mysql
+Frontend => Bootstrap, ReactJs
